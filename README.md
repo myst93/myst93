@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React.js, Express.js, Node.js, Mongodb**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f-eoomwVRIdbJoHA0X-AvESVYQplJpBT/view?usp=sharing](https://drive.google.com/file/d/1f-eoomwVRIdbJoHA0X-AvESVYQplJpBT/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1f-eoomwVRIdbJoHA0X-AvESVYQplJpBT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
