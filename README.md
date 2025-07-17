@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Parth Oberai</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🔭 I’m currently working on [WanderLust](https://github.com/adrde/mymys.git)
+- 🔭 I’m currently working on [WanderLust]([https://github.com/adrde/mymys.git](https://github.com/myst93/WanderLust.git))
 
 - 🌱 I’m currently learning **Backend in Node.js**
 
