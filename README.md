@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on WanderLust<br><br>🌱 I’m currently learning Backend in Node.js<br><br>👨‍💻 All of my projects are available at parth.oberai39@gmail.com<br><br>💬 Ask me about React.js, Express.js, Node.js, Mongodb<br><br>📄 Know about my experiences [![RESUME](https://drive.google.com/file/d/1alvzz8U7xFAtL4nGnVAnIXu9LQgwObhp/view)]
+🔭 I’m currently working on WanderLust<br><br>🌱 I’m currently learning Backend in Node.js<br><br>👨‍💻 All of my projects are available at parth.oberai39@gmail.com<br><br>💬 Ask me about React.js, Express.js, Node.js, Mongodb<br><br>📄 Know about my experiences [![RESUME]([https://drive.google.com/file/d/1alvzz8U7xFAtL4nGnVAnIXu9LQgwObhp/view](https://drive.google.com/file/d/1alvzz8U7xFAtL4nGnVAnIXu9LQgwObhp/view?usp=sharing))]
 
 
 ## 🌐 Socials:
