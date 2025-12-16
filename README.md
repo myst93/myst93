@@ -3,8 +3,7 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on WanderLust<br><br>🌱 I’m currently learning Full-Stack Development <br><br>👨‍💻 All of my projects are available at myst93<br><br>💬 Ask me about React.js, Express.js, Node.js, Mongodb<br><br>📄 Know about my experiences ![RESUME](https://drive.google.com/file/d/1alvzz8U7xFAtL4nGnVAnIXu9LQgwObhp/view?usp=drive_link)
-
+🔭 I’m currently working on WanderLust<br><br>🌱 I’m currently learning Full-Stack Development <br><br>👨‍💻 All of my projects are available at myst93<br><br>💬 Ask me about React.js, Express.js, Node.js, Mongodb<br><br>📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1alvzz8U7xFAtL4nGnVAnIXu9LQgwObhp/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-oberai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mystOberai93) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parth.oberai39@gmail.com) 
